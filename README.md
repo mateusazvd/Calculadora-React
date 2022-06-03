@@ -1,3 +1,9 @@
+# Calculadora react
+
+## screenshot
+<img src = 'blob:https://web.whatsapp.com/9474ec1e-ae7c-47e8-b30a-054adb0b8051'>
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).

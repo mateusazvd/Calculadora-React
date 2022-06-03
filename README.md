@@ -1,7 +1,7 @@
 # Calculadora react
 
 ## screenshot
-<img src = 'blob:https://web.whatsapp.com/9474ec1e-ae7c-47e8-b30a-054adb0b8051'>
+<img src = 'https://cdn.discordapp.com/attachments/903442055282429963/982320218925842452/unknown.png'>
 
 
 # Getting Started with Create React App

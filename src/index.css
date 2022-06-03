@@ -1,0 +1,13 @@
+body{
+  font-family: 'Roboto Mono', monospace;
+  font-weight: lighter;
+  display: flex;
+  height: 100vh;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+
+  color: white;
+  background: linear-gradient(to right, rgb(83,105,118),rgb(41,46,73));
+}
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Flex:opsz,wght@8..144,100&family=Roboto+Mono:wght@100&display=swap');
